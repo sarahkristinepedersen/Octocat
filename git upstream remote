@@ -1,1 +1,2 @@
-Explain what the "upstream" remote is usually used for, in your own words
+Git upstream remote
+To pull changes from the master repository, you need to add a remote upstream in your local repository, pointing to this original and pull from it. In other words, upstream describe the process of sending back the changes you have made in your local repository to the master branch.
