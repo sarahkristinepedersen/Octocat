@@ -1,1 +1,5 @@
-Explain what a branch is, in your own words
+Git branch
+Syntax: git branch [branchname]
+To add commits to the branch use: git checkout followed by git add and git commit commands.
+A branch can be perceived as a way of creating a new working directory, staging area, and project history. 
+A branch gives you a chance to test out your code before you merge it into the master branch. Branches also allow you to work on different projetcs in parallel and keep the master branch clean.
