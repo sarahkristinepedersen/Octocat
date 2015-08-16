@@ -1,1 +1,5 @@
-Explain what git clone does, in your own words
+Git clone
+Syntax: git clone [url]
+'git clone' copies a the entire git repository into a local directory and allows you to either look through or modify it. By cloning a repository, multiple users are able to simultaneously collaborate on the same project.
+git fetch updates all the remote tracking branches.
+git pull merges the remote master branch with the master branch on GitHub Explain what git clone does, in your own words
